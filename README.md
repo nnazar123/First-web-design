@@ -1,2 +1,2 @@
 # First-web-design
-my first task for web development training course
+My first task for web development training course
