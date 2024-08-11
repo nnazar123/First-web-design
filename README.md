@@ -1,17 +1,8 @@
 # Project Name
+My first Web-Page 
 
 ## Description
-A brief description of what this project does and who it's for.
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Installation
-To get a local copy up and running, follow these simple steps.
+First task for web development course by Tech Minds.
 
 1. **Clone the repository:**
    ```bash
